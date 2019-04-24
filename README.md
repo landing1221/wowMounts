@@ -2,6 +2,7 @@
 基于mpvue制作的微信小程序WOW坐骑小助手
 
 #启动方法
+
 npm install
 
 npm run dev.
