@@ -3,6 +3,7 @@
 
 #启动方法
 npm install
+
 npm run dev.
 
 打开小程序调试工具进行调试
